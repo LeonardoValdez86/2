@@ -1,0 +1,17 @@
+.uno{
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: center;
+}
+
+.uno h1{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+p{
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
